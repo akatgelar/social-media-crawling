@@ -1,0 +1,18 @@
+requests
+pymongo
+urllib
+
+api key
+a7x8tQklNxMa4TeWUmzQ0sc4z
+
+api key secret
+n80SPrNpsTXgj6kvmhS74W3P6gTYmpABbO473z6eiYul050B42
+
+bearer token
+AAAAAAAAAAAAAAAAAAAAAPzRLwEAAAAAMihKq413HvSAKcqeS09YyIjrwhM%3DWl7lOCLRMy8z95JGEtRPPZue9Lmvfp4HCuf02Xjm9rmqzUC6vF
+
+access token
+159491199-WExVKrWslcIIUI9yywCkgdWW2tfiqxkNlF1p9AgS
+
+access token secret
+1cDtiee95saDs9cKTG7VhWfBMCZtmMCV7w74WymBRAlcg
